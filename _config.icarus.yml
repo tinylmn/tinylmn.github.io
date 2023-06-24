@@ -229,7 +229,7 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: Tinylmn
         # Author title
         author_title: Your title
         # Author's current location
