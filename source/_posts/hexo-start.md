@@ -37,6 +37,9 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 
 ### Deploy to remote sites
 
+安装`hexo-deployer-git`
+`$ npm install hexo-deployer-git --save`
+
 ``` bash
 $ hexo deploy
 ```
