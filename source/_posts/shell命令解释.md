@@ -5,11 +5,11 @@ tags:
 - linux
 ---
 
-1. ```shell
+```shell
    $ unzip -o /data/support/node_modules.zip -d . > /dev/null
    ```
-
 - `unzip`：这是一个用于解压缩文件的命令。
+<!-- more -->
 - `-o`：这是`unzip`命令的选项之一，表示在解压缩时覆盖现有的文件。
 - `/data/support/node_modules.zip`：这是要解压缩的文件路径和文件名。`/data/support`是文件所在的目录，`node_modules.zip`是要解压缩的文件名。
 - `-d .`：这是`unzip`命令的另一个选项，表示将解压缩的文件提取到当前目录中。点号(`.`)代表当前目录。
@@ -19,7 +19,7 @@ tags:
 
 
 
-2. ```shell
+ ```bash
    $ zip -r dist.zip * > /dev/null
    ```
 

@@ -6,7 +6,7 @@ tags:
 ---
 
 前端本地打包推送远程服务器：
-
+<!-- more-->
 ```bash
 publish_dir=xxxx
 
